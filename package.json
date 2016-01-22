@@ -1,0 +1,16 @@
+{
+  "name": "marknotes",
+  "version": "1.0.0",
+  "description": "a bolg for markdown",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "highlight.js": "^9.1.0",
+    "marked": "^0.3.5"
+  }
+}
